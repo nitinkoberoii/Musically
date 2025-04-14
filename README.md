@@ -5,7 +5,7 @@ Team Member Names and Roll Numbers:
 Nitin Kumar (202211059)
 Tejas Pakhale (202211061)
 Rahul Gupta (202211069)
-Rituraj Kumar (202211075)
+Rituraj Kumar (202211075) 
 
 How to Use ?
 Navigate through this music streaming platform using the following core functionalities:-
