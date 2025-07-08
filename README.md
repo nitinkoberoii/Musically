@@ -1,7 +1,7 @@
 Musically
 This project delivers a digital music service that offers access a vast library of songs and playlists. Designed to simulate a basic music streaming platform, it provides users with functionalities to explore, listen, and manage music effortlessly. This README outlines the platform's key features and functionalities, along with detailed Selenium test case descriptions.
 
-Team Member Names and Roll Numbers:
+Team Member Names and Roll Numbers :
 Nitin Kumar (202211059)
 Tejas Pakhale (202211061)
 Rahul Gupta (202211069)
